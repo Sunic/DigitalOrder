@@ -1,0 +1,974 @@
+THotel
+v7
+r0
+t361161005.977483
+cCheck dependencies
+cProcessInfoPlistFile /Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator/Hotel.app/Info.plist Hotel-Info.plist
+cCompileXIB /Users/sunsunchao/Desktop/Hotel1/MainWindow.xib
+cCompileXIB /Users/sunsunchao/Desktop/Hotel1/Classes/CatalogFirstController.xib
+cCompileXIB /Users/sunsunchao/Desktop/Hotel1/Classes/OrderController.xib
+cCompileXIB /Users/sunsunchao/Desktop/Hotel1/Classes/AdviceController.xib
+cCompileXIB /Users/sunsunchao/Desktop/Hotel1/Classes/AddController.xib
+cCpResource build/Debug-iphonesimulator/Hotel.app/1.jpg 1.jpg
+cCpResource build/Debug-iphonesimulator/Hotel.app/2.jpg 2.jpg
+cCpResource build/Debug-iphonesimulator/Hotel.app/3.jpg 3.jpg
+cCpResource build/Debug-iphonesimulator/Hotel.app/4.jpg 4.jpg
+cCpResource build/Debug-iphonesimulator/Hotel.app/5.jpg 5.jpg
+cCpResource build/Debug-iphonesimulator/Hotel.app/6.jpg 6.jpg
+cCompileXIB /Users/sunsunchao/Desktop/Hotel1/Classes/CatalogSecondController.xib
+cCpResource build/Debug-iphonesimulator/Hotel.app/7.jpg 7.jpg
+cCpResource build/Debug-iphonesimulator/Hotel.app/doubleicon.png "Tab Bar Icons/doubleicon.png"
+cCpResource build/Debug-iphonesimulator/Hotel.app/singleicon.png "Tab Bar Icons/singleicon.png"
+cCpResource build/Debug-iphonesimulator/Hotel.app/icon.png icon.png
+cCpResource build/Debug-iphonesimulator/Hotel.app/default.png default.png
+cCpResource build/Debug-iphonesimulator/Hotel.app/CoreData.sqlite CoreData.sqlite
+cCpResource build/Debug-iphonesimulator/Hotel.app/Advice.png "Tab Bar Icons/Advice.png"
+cCpResource build/Debug-iphonesimulator/Hotel.app/Catalog.png "Tab Bar Icons/Catalog.png"
+cCpResource build/Debug-iphonesimulator/Hotel.app/Order.png "Tab Bar Icons/Order.png"
+cCpResource build/Debug-iphonesimulator/Hotel.app/Collection.png "Tab Bar Icons/Collection.png"
+cCompileXIB /Users/sunsunchao/Desktop/Hotel1/Classes/CollectionController.xib
+cProcessPCH /var/folders/BK/BK62rlQNFpuDbXcAePZFtk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hotel_Prefix-fmkxjpjtwpxiakdeireyfosruibi/Hotel_Prefix.pch.gch Hotel_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cDataModelCompile /Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator/Hotel.app/Hotel.mom /Users/sunsunchao/Desktop/Hotel1/Hotel.xcdatamodel
+cCompileC build/Hotel.build/Debug-iphonesimulator/Hotel.build/Objects-normal/i386/main.o /Users/sunsunchao/Desktop/Hotel1/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Hotel.build/Debug-iphonesimulator/Hotel.build/Objects-normal/i386/HotelAppDelegate.o /Users/sunsunchao/Desktop/Hotel1/Classes/HotelAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Hotel.build/Debug-iphonesimulator/Hotel.build/Objects-normal/i386/CatalogFirstController.o /Users/sunsunchao/Desktop/Hotel1/Classes/CatalogFirstController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Hotel.build/Debug-iphonesimulator/Hotel.build/Objects-normal/i386/AdviceController.o /Users/sunsunchao/Desktop/Hotel1/Classes/AdviceController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Hotel.build/Debug-iphonesimulator/Hotel.build/Objects-normal/i386/CatalogRootController.o /Users/sunsunchao/Desktop/Hotel1/Classes/CatalogRootController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Hotel.build/Debug-iphonesimulator/Hotel.build/Objects-normal/i386/AddController.o /Users/sunsunchao/Desktop/Hotel1/Classes/AddController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Hotel.build/Debug-iphonesimulator/Hotel.build/Objects-normal/i386/CatalogSecondController.o /Users/sunsunchao/Desktop/Hotel1/Classes/CatalogSecondController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Hotel.build/Debug-iphonesimulator/Hotel.build/Objects-normal/i386/FileController.o /Users/sunsunchao/Desktop/Hotel1/Classes/FileController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Hotel.build/Debug-iphonesimulator/Hotel.build/Objects-normal/i386/OrderController.o /Users/sunsunchao/Desktop/Hotel1/Classes/OrderController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Hotel.build/Debug-iphonesimulator/Hotel.build/Objects-normal/i386/TableCellView.o /Users/sunsunchao/Desktop/Hotel1/Classes/TableCellView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Hotel.build/Debug-iphonesimulator/Hotel.build/Objects-normal/i386/DialogView.o /Users/sunsunchao/Desktop/Hotel1/Classes/DialogView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Hotel.build/Debug-iphonesimulator/Hotel.build/Objects-normal/i386/CollectionController.o /Users/sunsunchao/Desktop/Hotel1/Classes/CollectionController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator/Hotel.app/Hotel normal i386
+cGenerateDSYMFile /Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator/Hotel.app.dSYM /Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator/Hotel.app/Hotel
+cTouch /Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator/Hotel.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk
+c000000004AF0C10000000000000000EE
+t1257292032
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000004ABDC9A7000000000000046B
+t1253951911
+s1131
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004ABDC853000000000026EE30
+t1253951571
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004ABDC952000000000027E880
+t1253951826
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004ABDC93F0000000000001355
+t1253951807
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004ABDCAC8000000000000007D
+t1253952200
+s125
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004ABDEE1D0000000000000788
+t1253961245
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004ABDEEE200000000016721E0
+t1253961442
+s23536096
+
+N/System/Library/Frameworks/CoreData.framework/CoreData
+c000000004B73FC5E000000000052F740
+t1265892446
+s5437248
+
+N/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004B73BC540000000000CF0BF0
+t1265876052
+s13569008
+
+N/Users/sunsunchao/Desktop/Hotel1/1.jpg
+c000000004DCA89360000000000022676
+t1305119030
+s140918
+
+N/Users/sunsunchao/Desktop/Hotel1/2.jpg
+c000000004DCA894E00000000000150AF
+t1305119054
+s86191
+
+N/Users/sunsunchao/Desktop/Hotel1/3.jpg
+c000000004DCA896C000000000000F7CF
+t1305119084
+s63439
+
+N/Users/sunsunchao/Desktop/Hotel1/4.jpg
+c000000004DCA88A00000000000008B3F
+t1305118880
+s35647
+
+N/Users/sunsunchao/Desktop/Hotel1/5.jpg
+c000000004DCA88C8000000000000BEDE
+t1305118920
+s48862
+
+N/Users/sunsunchao/Desktop/Hotel1/6.jpg
+c000000004DCA890E0000000000015EC2
+t1305118990
+s89794
+
+N/Users/sunsunchao/Desktop/Hotel1/7.jpg
+c000000004DD3FCBE0000000000004EC5
+t1305738430
+s20165
+
+N/Users/sunsunchao/Desktop/Hotel1/Classes/AddController.h
+c000000004DD3EDF60000000000000311
+t1305734646
+s785
+i<UIKit/UIKit.h>
+
+N/Users/sunsunchao/Desktop/Hotel1/Classes/AddController.m
+c000000004DD3EEDC0000000000001290
+t1305734876
+s4752
+i"AddController.h"
+i"HotelAppDelegate.h"
+
+N/Users/sunsunchao/Desktop/Hotel1/Classes/AddController.xib
+c000000004FD473A6000000000000C8B7
+t1339323302
+s51383
+
+N/Users/sunsunchao/Desktop/Hotel1/Classes/AdviceController.h
+c000000004DDFAC060000000000000408
+t1306504198
+s1032
+i<UIKit/UIKit.h>
+
+N/Users/sunsunchao/Desktop/Hotel1/Classes/AdviceController.m
+c000000004FC9FDEB0000000000002844
+t1338637803
+s10308
+i"AdviceController.h"
+i"HotelAppDelegate.h"
+i"DialogView.h"
+
+N/Users/sunsunchao/Desktop/Hotel1/Classes/AdviceController.xib
+c000000004FCAEB0F0000000000009EB5
+t1338698511
+s40629
+
+N/Users/sunsunchao/Desktop/Hotel1/Classes/CatalogFirstController.h
+c000000004DD40A4800000000000002DC
+t1305741896
+s732
+i<UIKit/UIKit.h>
+
+N/Users/sunsunchao/Desktop/Hotel1/Classes/CatalogFirstController.m
+c000000004FD559740000000000003673
+t1339382132
+s13939
+i"CatalogFirstController.h"
+i"AddController.h"
+i"HotelAppDelegate.h"
+i"CatalogSecondController.h"
+i"FileController.h"
+i"TableCellView.h"
+
+N/Users/sunsunchao/Desktop/Hotel1/Classes/CatalogFirstController.xib
+c000000004FD478140000000000006954
+t1339324436
+s26964
+
+N/Users/sunsunchao/Desktop/Hotel1/Classes/CatalogRootController.h
+c000000004DC8F5F200000000000000DF
+t1305015794
+s223
+i<UIKit/UIKit.h>
+
+N/Users/sunsunchao/Desktop/Hotel1/Classes/CatalogRootController.m
+c000000004DCA9A020000000000000748
+t1305123330
+s1864
+i"CatalogRootController.h"
+i"CatalogFirstController.h"
+
+N/Users/sunsunchao/Desktop/Hotel1/Classes/CatalogSecondController.h
+c000000004DDD30A60000000000000551
+t1306341542
+s1361
+i<UIKit/UIKit.h>
+i"HotelAppDelegate.h"
+
+N/Users/sunsunchao/Desktop/Hotel1/Classes/CatalogSecondController.m
+c000000004FD475C00000000000001A89
+t1339323840
+s6793
+i"CatalogSecondController.h"
+i"FileController.h"
+
+N/Users/sunsunchao/Desktop/Hotel1/Classes/CatalogSecondController.xib
+c000000004FCAF102000000000000B085
+t1338700034
+s45189
+
+N/Users/sunsunchao/Desktop/Hotel1/Classes/CollectionController.h
+c000000004FCAE5270000000000000373
+t1338696999
+s883
+i<UIKit/UIKit.h>
+
+N/Users/sunsunchao/Desktop/Hotel1/Classes/CollectionController.m
+c000000004FCAE5C2000000000000352F
+t1338697154
+s13615
+i"CollectionController.h"
+i"FileController.h"
+i"HotelAppDelegate.h"
+i"TableCellView.h"
+
+N/Users/sunsunchao/Desktop/Hotel1/Classes/CollectionController.xib
+c000000004FCAE6AE0000000000005DBB
+t1338697390
+s23995
+
+N/Users/sunsunchao/Desktop/Hotel1/Classes/DialogView.h
+c000000004FA1BFDD00000000000001D8
+t1336000477
+s472
+i<UIKit/UIKit.h>
+
+N/Users/sunsunchao/Desktop/Hotel1/Classes/DialogView.m
+c000000004FCAE87000000000000011CB
+t1338697840
+s4555
+i"DialogView.h"
+
+N/Users/sunsunchao/Desktop/Hotel1/Classes/FileController.h
+c000000004DCE2A74000000000000020D
+t1305356916
+s525
+i<UIKit/UIKit.h>
+
+N/Users/sunsunchao/Desktop/Hotel1/Classes/FileController.m
+c000000004FC9EDDE0000000000000CF6
+t1338633694
+s3318
+i"FileController.h"
+
+N/Users/sunsunchao/Desktop/Hotel1/Classes/HotelAppDelegate.h
+c000000004DCA2C1A000000000000039B
+t1305095194
+s923
+i<UIKit/UIKit.h>
+
+N/Users/sunsunchao/Desktop/Hotel1/Classes/HotelAppDelegate.m
+c000000004DDFC1940000000000001211
+t1306509716
+s4625
+i"HotelAppDelegate.h"
+i"FileController.h"
+
+N/Users/sunsunchao/Desktop/Hotel1/Classes/OrderController.h
+c000000004DDD40580000000000000354
+t1306345560
+s852
+i<UIKit/UIKit.h>
+
+N/Users/sunsunchao/Desktop/Hotel1/Classes/OrderController.m
+c000000004FC9F86D0000000000002FC2
+t1338636397
+s12226
+i"OrderController.h"
+i"FileController.h"
+i"HotelAppDelegate.h"
+i"TableCellView.h"
+
+N/Users/sunsunchao/Desktop/Hotel1/Classes/OrderController.xib
+c000000004FCAE65D0000000000006A59
+t1338697309
+s27225
+
+N/Users/sunsunchao/Desktop/Hotel1/Classes/TableCellView.h
+c000000004DDBED70000000000000010F
+t1306258800
+s271
+i<UIKit/UIKit.h>
+
+N/Users/sunsunchao/Desktop/Hotel1/Classes/TableCellView.m
+c000000004DDD2DE800000000000008AA
+t1306340840
+s2218
+i"TableCellView.h"
+
+N/Users/sunsunchao/Desktop/Hotel1/CoreData.sqlite
+c000000004DD3FCAC0000000000004000
+t1305738412
+s16384
+
+N/Users/sunsunchao/Desktop/Hotel1/Hotel.xcdatamodel
+c000000004FCACD260000000000000088
+t1338690854
+s136
+
+N/Users/sunsunchao/Desktop/Hotel1/Hotel_Prefix.pch
+c000000004DDA584000000000000000F4
+t1306155072
+s244
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/sunsunchao/Desktop/Hotel1/MainWindow.xib
+c000000004FCAE6E30000000000009802
+t1338697443
+s38914
+
+N/Users/sunsunchao/Desktop/Hotel1/Tab Bar Icons/Advice.png
+c000000004CB7E1EC0000000000000BC1
+t1287119340
+s3009
+
+N/Users/sunsunchao/Desktop/Hotel1/Tab Bar Icons/Catalog.png
+c000000004CBB27A200000000000000B0
+t1287333794
+s176
+
+N/Users/sunsunchao/Desktop/Hotel1/Tab Bar Icons/Collection.png
+c000000004CB7E1EC0000000000000C36
+t1287119340
+s3126
+
+N/Users/sunsunchao/Desktop/Hotel1/Tab Bar Icons/Order.png
+c000000004CB7E1F20000000000000B42
+t1287119346
+s2882
+
+N/Users/sunsunchao/Desktop/Hotel1/Tab Bar Icons/doubleicon.png
+c0000000049D2EC800000000000000BCA
+t1238559872
+s3018
+
+N/Users/sunsunchao/Desktop/Hotel1/Tab Bar Icons/singleicon.png
+c0000000049D2EC800000000000000B59
+t1238559872
+s2905
+
+N/Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator/Hotel.app
+t1339468205
+s986
+
+N/Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator/Hotel.app.dSYM
+t1339468205
+s102
+
+N/Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator/Hotel.app/1.jpg
+t1339468204
+s140918
+
+N/Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator/Hotel.app/2.jpg
+t1339468204
+s86191
+
+N/Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator/Hotel.app/3.jpg
+t1339468204
+s63439
+
+N/Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator/Hotel.app/4.jpg
+t1339468204
+s35647
+
+N/Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator/Hotel.app/5.jpg
+t1339468204
+s48862
+
+N/Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator/Hotel.app/6.jpg
+t1339468204
+s89794
+
+N/Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator/Hotel.app/7.jpg
+t1339468204
+s20165
+
+N/Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator/Hotel.app/AddController.nib
+t1339468204
+s7385
+
+N/Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator/Hotel.app/Advice.png
+t1339468204
+s3009
+
+N/Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator/Hotel.app/AdviceController.nib
+t1339468204
+s5721
+
+N/Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator/Hotel.app/Catalog.png
+t1339468204
+s176
+
+N/Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator/Hotel.app/CatalogFirstController.nib
+t1339468203
+s3304
+
+N/Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator/Hotel.app/CatalogSecondController.nib
+t1339468204
+s6631
+
+N/Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator/Hotel.app/Collection.png
+t1339468204
+s3126
+
+N/Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator/Hotel.app/CollectionController.nib
+t1339468204
+s1959
+
+N/Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator/Hotel.app/CoreData.sqlite
+t1339468204
+s16384
+
+N/Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator/Hotel.app/Hotel
+t1339468205
+s119200
+
+N/Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator/Hotel.app/Hotel.mom
+t1339468204
+s1996
+
+N/Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator/Hotel.app/Info.plist
+t1339468203
+s619
+
+N/Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator/Hotel.app/MainWindow.nib
+t1339468203
+s3269
+
+N/Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator/Hotel.app/Order.png
+t1339468204
+s2882
+
+N/Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator/Hotel.app/OrderController.nib
+t1339468203
+s3167
+
+N/Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator/Hotel.app/PkgInfo
+t1339468203
+s8
+
+N/Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator/Hotel.app/default.png
+t1339468204
+s9803
+
+N/Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator/Hotel.app/doubleicon.png
+t1339468204
+s3018
+
+N/Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator/Hotel.app/icon.png
+t1339468204
+s9803
+
+N/Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator/Hotel.app/singleicon.png
+t1339468204
+s2905
+
+N/Users/sunsunchao/Desktop/Hotel1/build/Hotel.build/Debug-iphonesimulator/Hotel.build/Objects-normal/i386/AddController.o
+t1339468205
+s58284
+
+N/Users/sunsunchao/Desktop/Hotel1/build/Hotel.build/Debug-iphonesimulator/Hotel.build/Objects-normal/i386/AdviceController.o
+t1339468205
+s68316
+
+N/Users/sunsunchao/Desktop/Hotel1/build/Hotel.build/Debug-iphonesimulator/Hotel.build/Objects-normal/i386/CatalogFirstController.o
+t1339468205
+s82236
+
+N/Users/sunsunchao/Desktop/Hotel1/build/Hotel.build/Debug-iphonesimulator/Hotel.build/Objects-normal/i386/CatalogRootController.o
+t1339468205
+s33880
+
+N/Users/sunsunchao/Desktop/Hotel1/build/Hotel.build/Debug-iphonesimulator/Hotel.build/Objects-normal/i386/CatalogSecondController.o
+t1339468205
+s61788
+
+N/Users/sunsunchao/Desktop/Hotel1/build/Hotel.build/Debug-iphonesimulator/Hotel.build/Objects-normal/i386/CollectionController.o
+t1339468205
+s81564
+
+N/Users/sunsunchao/Desktop/Hotel1/build/Hotel.build/Debug-iphonesimulator/Hotel.build/Objects-normal/i386/DialogView.o
+t1339468205
+s28828
+
+N/Users/sunsunchao/Desktop/Hotel1/build/Hotel.build/Debug-iphonesimulator/Hotel.build/Objects-normal/i386/FileController.o
+t1339468205
+s15496
+
+N/Users/sunsunchao/Desktop/Hotel1/build/Hotel.build/Debug-iphonesimulator/Hotel.build/Objects-normal/i386/Hotel.LinkFileList
+c000000004FD6A9AB00000000000005CB
+t1339468203
+s1483
+
+N/Users/sunsunchao/Desktop/Hotel1/build/Hotel.build/Debug-iphonesimulator/Hotel.build/Objects-normal/i386/HotelAppDelegate.o
+t1339468205
+s50460
+
+N/Users/sunsunchao/Desktop/Hotel1/build/Hotel.build/Debug-iphonesimulator/Hotel.build/Objects-normal/i386/OrderController.o
+t1339468205
+s81256
+
+N/Users/sunsunchao/Desktop/Hotel1/build/Hotel.build/Debug-iphonesimulator/Hotel.build/Objects-normal/i386/TableCellView.o
+t1339468205
+s15376
+
+N/Users/sunsunchao/Desktop/Hotel1/build/Hotel.build/Debug-iphonesimulator/Hotel.build/Objects-normal/i386/main.o
+t1339468205
+s5936
+
+N/Users/sunsunchao/Desktop/Hotel1/default.png
+c000000004DDFBE32000000000000264B
+t1306508850
+s9803
+
+N/Users/sunsunchao/Desktop/Hotel1/icon.png
+c000000004DDFBE32000000000000264B
+t1306508850
+s9803
+
+N/Users/sunsunchao/Desktop/Hotel1/main.m
+c000000004DC8EE660000000000000150
+t1305013862
+s336
+i<UIKit/UIKit.h>
+
+N/var/folders/BK/BK62rlQNFpuDbXcAePZFtk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hotel_Prefix-fmkxjpjtwpxiakdeireyfosruibi/Hotel_Prefix.pch.gch
+t1339382405
+s14285680
+
+NHotel-Info.plist
+c000000004DDFBED60000000000000395
+t1306509014
+s917
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies361161003#361161003#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/Hotel.build/Debug-iphonesimulator/Hotel.build/Objects-normal/i386/AddController.o /Users/sunsunchao/Desktop/Hotel1/Classes/AddController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s361161005.473973
+e361161005.600399
+r1
+xCompileC
+xbuild/Hotel.build/Debug-iphonesimulator/Hotel.build/Objects-normal/i386/AddController.o
+x/Users/sunsunchao/Desktop/Hotel1/Classes/AddController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/sunsunchao/Desktop/Hotel1/Classes/AddController.m361161005#361161005#0(0"0(0#0#56"/Users/sunsunchao/Desktop/Hotel1/Classes/AddController.m4300911832#1779"    cd /Users/sunsunchao/Desktop/Hotel1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/sunsunchao/Desktop/Hotel1/build/Hotel.build/Debug-iphonesimulator/Hotel.build/Hotel-generated-files.hmap -I/Users/sunsunchao/Desktop/Hotel1/build/Hotel.build/Debug-iphonesimulator/Hotel.build/Hotel-own-target-headers.hmap -I/Users/sunsunchao/Desktop/Hotel1/build/Hotel.build/Debug-iphonesimulator/Hotel.build/Hotel-all-target-headers.hmap -iquote /Users/sunsunchao/Desktop/Hotel1/build/Hotel.build/Debug-iphonesimulator/Hotel.build/Hotel-project-headers.hmap -F/Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator -I/Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator/include -I/Users/sunsunchao/Desktop/Hotel1/build/Hotel.build/Debug-iphonesimulator/Hotel.build/DerivedSources/i386 -I/Users/sunsunchao/Desktop/Hotel1/build/Hotel.build/Debug-iphonesimulator/Hotel.build/DerivedSources -include /var/folders/BK/BK62rlQNFpuDbXcAePZFtk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hotel_Prefix-fmkxjpjtwpxiakdeireyfosruibi/Hotel_Prefix.pch -c /Users/sunsunchao/Desktop/Hotel1/Classes/AddController.m -o /Users/sunsunchao/Desktop/Hotel1/build/Hotel.build/Debug-iphonesimulator/Hotel.build/Objects-normal/i386/AddController.o0#
+
+CCompileC build/Hotel.build/Debug-iphonesimulator/Hotel.build/Objects-normal/i386/AdviceController.o /Users/sunsunchao/Desktop/Hotel1/Classes/AdviceController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s361161005.334601
+e361161005.441080
+r1
+xCompileC
+xbuild/Hotel.build/Debug-iphonesimulator/Hotel.build/Objects-normal/i386/AdviceController.o
+x/Users/sunsunchao/Desktop/Hotel1/Classes/AdviceController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/sunsunchao/Desktop/Hotel1/Classes/AdviceController.m361161005#361161005#0(0"0(0#0#59"/Users/sunsunchao/Desktop/Hotel1/Classes/AdviceController.m4300911832#1785"    cd /Users/sunsunchao/Desktop/Hotel1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/sunsunchao/Desktop/Hotel1/build/Hotel.build/Debug-iphonesimulator/Hotel.build/Hotel-generated-files.hmap -I/Users/sunsunchao/Desktop/Hotel1/build/Hotel.build/Debug-iphonesimulator/Hotel.build/Hotel-own-target-headers.hmap -I/Users/sunsunchao/Desktop/Hotel1/build/Hotel.build/Debug-iphonesimulator/Hotel.build/Hotel-all-target-headers.hmap -iquote /Users/sunsunchao/Desktop/Hotel1/build/Hotel.build/Debug-iphonesimulator/Hotel.build/Hotel-project-headers.hmap -F/Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator -I/Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator/include -I/Users/sunsunchao/Desktop/Hotel1/build/Hotel.build/Debug-iphonesimulator/Hotel.build/DerivedSources/i386 -I/Users/sunsunchao/Desktop/Hotel1/build/Hotel.build/Debug-iphonesimulator/Hotel.build/DerivedSources -include /var/folders/BK/BK62rlQNFpuDbXcAePZFtk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hotel_Prefix-fmkxjpjtwpxiakdeireyfosruibi/Hotel_Prefix.pch -c /Users/sunsunchao/Desktop/Hotel1/Classes/AdviceController.m -o /Users/sunsunchao/Desktop/Hotel1/build/Hotel.build/Debug-iphonesimulator/Hotel.build/Objects-normal/i386/AdviceController.o0#
+
+CCompileC build/Hotel.build/Debug-iphonesimulator/Hotel.build/Objects-normal/i386/CatalogFirstController.o /Users/sunsunchao/Desktop/Hotel1/Classes/CatalogFirstController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s361161005.315568
+e361161005.473876
+r1
+xCompileC
+xbuild/Hotel.build/Debug-iphonesimulator/Hotel.build/Objects-normal/i386/CatalogFirstController.o
+x/Users/sunsunchao/Desktop/Hotel1/Classes/CatalogFirstController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/sunsunchao/Desktop/Hotel1/Classes/CatalogFirstController.m361161005#361161005#0(0"0(0#0#65"/Users/sunsunchao/Desktop/Hotel1/Classes/CatalogFirstController.m4300911832#1797"    cd /Users/sunsunchao/Desktop/Hotel1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/sunsunchao/Desktop/Hotel1/build/Hotel.build/Debug-iphonesimulator/Hotel.build/Hotel-generated-files.hmap -I/Users/sunsunchao/Desktop/Hotel1/build/Hotel.build/Debug-iphonesimulator/Hotel.build/Hotel-own-target-headers.hmap -I/Users/sunsunchao/Desktop/Hotel1/build/Hotel.build/Debug-iphonesimulator/Hotel.build/Hotel-all-target-headers.hmap -iquote /Users/sunsunchao/Desktop/Hotel1/build/Hotel.build/Debug-iphonesimulator/Hotel.build/Hotel-project-headers.hmap -F/Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator -I/Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator/include -I/Users/sunsunchao/Desktop/Hotel1/build/Hotel.build/Debug-iphonesimulator/Hotel.build/DerivedSources/i386 -I/Users/sunsunchao/Desktop/Hotel1/build/Hotel.build/Debug-iphonesimulator/Hotel.build/DerivedSources -include /var/folders/BK/BK62rlQNFpuDbXcAePZFtk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hotel_Prefix-fmkxjpjtwpxiakdeireyfosruibi/Hotel_Prefix.pch -c /Users/sunsunchao/Desktop/Hotel1/Classes/CatalogFirstController.m -o /Users/sunsunchao/Desktop/Hotel1/build/Hotel.build/Debug-iphonesimulator/Hotel.build/Objects-normal/i386/CatalogFirstController.o0#
+
+CCompileC build/Hotel.build/Debug-iphonesimulator/Hotel.build/Objects-normal/i386/CatalogRootController.o /Users/sunsunchao/Desktop/Hotel1/Classes/CatalogRootController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s361161005.441175
+e361161005.505353
+r1
+xCompileC
+xbuild/Hotel.build/Debug-iphonesimulator/Hotel.build/Objects-normal/i386/CatalogRootController.o
+x/Users/sunsunchao/Desktop/Hotel1/Classes/CatalogRootController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/sunsunchao/Desktop/Hotel1/Classes/CatalogRootController.m361161005#361161005#0(0"0(0#0#64"/Users/sunsunchao/Desktop/Hotel1/Classes/CatalogRootController.m4300911832#1795"    cd /Users/sunsunchao/Desktop/Hotel1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/sunsunchao/Desktop/Hotel1/build/Hotel.build/Debug-iphonesimulator/Hotel.build/Hotel-generated-files.hmap -I/Users/sunsunchao/Desktop/Hotel1/build/Hotel.build/Debug-iphonesimulator/Hotel.build/Hotel-own-target-headers.hmap -I/Users/sunsunchao/Desktop/Hotel1/build/Hotel.build/Debug-iphonesimulator/Hotel.build/Hotel-all-target-headers.hmap -iquote /Users/sunsunchao/Desktop/Hotel1/build/Hotel.build/Debug-iphonesimulator/Hotel.build/Hotel-project-headers.hmap -F/Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator -I/Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator/include -I/Users/sunsunchao/Desktop/Hotel1/build/Hotel.build/Debug-iphonesimulator/Hotel.build/DerivedSources/i386 -I/Users/sunsunchao/Desktop/Hotel1/build/Hotel.build/Debug-iphonesimulator/Hotel.build/DerivedSources -include /var/folders/BK/BK62rlQNFpuDbXcAePZFtk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hotel_Prefix-fmkxjpjtwpxiakdeireyfosruibi/Hotel_Prefix.pch -c /Users/sunsunchao/Desktop/Hotel1/Classes/CatalogRootController.m -o /Users/sunsunchao/Desktop/Hotel1/build/Hotel.build/Debug-iphonesimulator/Hotel.build/Objects-normal/i386/CatalogRootController.o0#
+
+CCompileC build/Hotel.build/Debug-iphonesimulator/Hotel.build/Objects-normal/i386/CatalogSecondController.o /Users/sunsunchao/Desktop/Hotel1/Classes/CatalogSecondController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s361161005.505442
+e361161005.636871
+r1
+xCompileC
+xbuild/Hotel.build/Debug-iphonesimulator/Hotel.build/Objects-normal/i386/CatalogSecondController.o
+x/Users/sunsunchao/Desktop/Hotel1/Classes/CatalogSecondController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/sunsunchao/Desktop/Hotel1/Classes/CatalogSecondController.m361161005#361161005#0(0"0(0#0#66"/Users/sunsunchao/Desktop/Hotel1/Classes/CatalogSecondController.m4300911832#1799"    cd /Users/sunsunchao/Desktop/Hotel1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/sunsunchao/Desktop/Hotel1/build/Hotel.build/Debug-iphonesimulator/Hotel.build/Hotel-generated-files.hmap -I/Users/sunsunchao/Desktop/Hotel1/build/Hotel.build/Debug-iphonesimulator/Hotel.build/Hotel-own-target-headers.hmap -I/Users/sunsunchao/Desktop/Hotel1/build/Hotel.build/Debug-iphonesimulator/Hotel.build/Hotel-all-target-headers.hmap -iquote /Users/sunsunchao/Desktop/Hotel1/build/Hotel.build/Debug-iphonesimulator/Hotel.build/Hotel-project-headers.hmap -F/Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator -I/Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator/include -I/Users/sunsunchao/Desktop/Hotel1/build/Hotel.build/Debug-iphonesimulator/Hotel.build/DerivedSources/i386 -I/Users/sunsunchao/Desktop/Hotel1/build/Hotel.build/Debug-iphonesimulator/Hotel.build/DerivedSources -include /var/folders/BK/BK62rlQNFpuDbXcAePZFtk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hotel_Prefix-fmkxjpjtwpxiakdeireyfosruibi/Hotel_Prefix.pch -c /Users/sunsunchao/Desktop/Hotel1/Classes/CatalogSecondController.m -o /Users/sunsunchao/Desktop/Hotel1/build/Hotel.build/Debug-iphonesimulator/Hotel.build/Objects-normal/i386/CatalogSecondController.o0#
+
+CCompileC build/Hotel.build/Debug-iphonesimulator/Hotel.build/Objects-normal/i386/CollectionController.o /Users/sunsunchao/Desktop/Hotel1/Classes/CollectionController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s361161005.792164
+e361161005.913511
+r1
+xCompileC
+xbuild/Hotel.build/Debug-iphonesimulator/Hotel.build/Objects-normal/i386/CollectionController.o
+x/Users/sunsunchao/Desktop/Hotel1/Classes/CollectionController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/sunsunchao/Desktop/Hotel1/Classes/CollectionController.m361161005#361161005#0(0"0(0#0#63"/Users/sunsunchao/Desktop/Hotel1/Classes/CollectionController.m4300911832#1793"    cd /Users/sunsunchao/Desktop/Hotel1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/sunsunchao/Desktop/Hotel1/build/Hotel.build/Debug-iphonesimulator/Hotel.build/Hotel-generated-files.hmap -I/Users/sunsunchao/Desktop/Hotel1/build/Hotel.build/Debug-iphonesimulator/Hotel.build/Hotel-own-target-headers.hmap -I/Users/sunsunchao/Desktop/Hotel1/build/Hotel.build/Debug-iphonesimulator/Hotel.build/Hotel-all-target-headers.hmap -iquote /Users/sunsunchao/Desktop/Hotel1/build/Hotel.build/Debug-iphonesimulator/Hotel.build/Hotel-project-headers.hmap -F/Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator -I/Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator/include -I/Users/sunsunchao/Desktop/Hotel1/build/Hotel.build/Debug-iphonesimulator/Hotel.build/DerivedSources/i386 -I/Users/sunsunchao/Desktop/Hotel1/build/Hotel.build/Debug-iphonesimulator/Hotel.build/DerivedSources -include /var/folders/BK/BK62rlQNFpuDbXcAePZFtk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hotel_Prefix-fmkxjpjtwpxiakdeireyfosruibi/Hotel_Prefix.pch -c /Users/sunsunchao/Desktop/Hotel1/Classes/CollectionController.m -o /Users/sunsunchao/Desktop/Hotel1/build/Hotel.build/Debug-iphonesimulator/Hotel.build/Objects-normal/i386/CollectionController.o0#
+
+CCompileC build/Hotel.build/Debug-iphonesimulator/Hotel.build/Objects-normal/i386/DialogView.o /Users/sunsunchao/Desktop/Hotel1/Classes/DialogView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s361161005.749281
+e361161005.833873
+r1
+xCompileC
+xbuild/Hotel.build/Debug-iphonesimulator/Hotel.build/Objects-normal/i386/DialogView.o
+x/Users/sunsunchao/Desktop/Hotel1/Classes/DialogView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/sunsunchao/Desktop/Hotel1/Classes/DialogView.m: In function '-[DialogView drawRect:]':
+o/Users/sunsunchao/Desktop/Hotel1/Classes/DialogView.m:117: warning: unused variable 'maxy'
+o/Users/sunsunchao/Desktop/Hotel1/Classes/DialogView.m:117: warning: unused variable 'midy'
+o/Users/sunsunchao/Desktop/Hotel1/Classes/DialogView.m:116: warning: unused variable 'maxx'
+lSLF07#2@61"Compile /Users/sunsunchao/Desktop/Hotel1/Classes/DialogView.m361161005#361161005#0(367"/Users/sunsunchao/Desktop/Hotel1/Classes/DialogView.m: In function '-[DialogView drawRect:]':/Users/sunsunchao/Desktop/Hotel1/Classes/DialogView.m:117: warning: unused variable 'maxy'/Users/sunsunchao/Desktop/Hotel1/Classes/DialogView.m:117: warning: unused variable 'midy'/Users/sunsunchao/Desktop/Hotel1/Classes/DialogView.m:116: warning: unused variable 'maxx'3(22@22"Unused variable 'maxy'361161005#94#91#0(6@53"/Users/sunsunchao/Desktop/Hotel1/Classes/DialogView.m360390640#117#0#117#0#19"unused variable '*'0(22@22"Unused variable 'midy'361161005#185#91#0(6@53"/Users/sunsunchao/Desktop/Hotel1/Classes/DialogView.m360390640#117#0#117#0#19"unused variable '*'0(22@22"Unused variable 'maxx'361161005#276#91#0(6@53"/Users/sunsunchao/Desktop/Hotel1/Classes/DialogView.m360390640#116#0#116#0#19"unused variable '*'0(0#0#53"/Users/sunsunchao/Desktop/Hotel1/Classes/DialogView.m4300911832#1773"    cd /Users/sunsunchao/Desktop/Hotel1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/sunsunchao/Desktop/Hotel1/build/Hotel.build/Debug-iphonesimulator/Hotel.build/Hotel-generated-files.hmap -I/Users/sunsunchao/Desktop/Hotel1/build/Hotel.build/Debug-iphonesimulator/Hotel.build/Hotel-own-target-headers.hmap -I/Users/sunsunchao/Desktop/Hotel1/build/Hotel.build/Debug-iphonesimulator/Hotel.build/Hotel-all-target-headers.hmap -iquote /Users/sunsunchao/Desktop/Hotel1/build/Hotel.build/Debug-iphonesimulator/Hotel.build/Hotel-project-headers.hmap -F/Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator -I/Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator/include -I/Users/sunsunchao/Desktop/Hotel1/build/Hotel.build/Debug-iphonesimulator/Hotel.build/DerivedSources/i386 -I/Users/sunsunchao/Desktop/Hotel1/build/Hotel.build/Debug-iphonesimulator/Hotel.build/DerivedSources -include /var/folders/BK/BK62rlQNFpuDbXcAePZFtk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hotel_Prefix-fmkxjpjtwpxiakdeireyfosruibi/Hotel_Prefix.pch -c /Users/sunsunchao/Desktop/Hotel1/Classes/DialogView.m -o /Users/sunsunchao/Desktop/Hotel1/build/Hotel.build/Debug-iphonesimulator/Hotel.build/Objects-normal/i386/DialogView.o0#
+
+CCompileC build/Hotel.build/Debug-iphonesimulator/Hotel.build/Objects-normal/i386/FileController.o /Users/sunsunchao/Desktop/Hotel1/Classes/FileController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s361161005.600486
+e361161005.684899
+r1
+xCompileC
+xbuild/Hotel.build/Debug-iphonesimulator/Hotel.build/Objects-normal/i386/FileController.o
+x/Users/sunsunchao/Desktop/Hotel1/Classes/FileController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/sunsunchao/Desktop/Hotel1/Classes/FileController.m361161005#361161005#0(0"0(0#0#57"/Users/sunsunchao/Desktop/Hotel1/Classes/FileController.m4300911832#1781"    cd /Users/sunsunchao/Desktop/Hotel1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/sunsunchao/Desktop/Hotel1/build/Hotel.build/Debug-iphonesimulator/Hotel.build/Hotel-generated-files.hmap -I/Users/sunsunchao/Desktop/Hotel1/build/Hotel.build/Debug-iphonesimulator/Hotel.build/Hotel-own-target-headers.hmap -I/Users/sunsunchao/Desktop/Hotel1/build/Hotel.build/Debug-iphonesimulator/Hotel.build/Hotel-all-target-headers.hmap -iquote /Users/sunsunchao/Desktop/Hotel1/build/Hotel.build/Debug-iphonesimulator/Hotel.build/Hotel-project-headers.hmap -F/Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator -I/Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator/include -I/Users/sunsunchao/Desktop/Hotel1/build/Hotel.build/Debug-iphonesimulator/Hotel.build/DerivedSources/i386 -I/Users/sunsunchao/Desktop/Hotel1/build/Hotel.build/Debug-iphonesimulator/Hotel.build/DerivedSources -include /var/folders/BK/BK62rlQNFpuDbXcAePZFtk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hotel_Prefix-fmkxjpjtwpxiakdeireyfosruibi/Hotel_Prefix.pch -c /Users/sunsunchao/Desktop/Hotel1/Classes/FileController.m -o /Users/sunsunchao/Desktop/Hotel1/build/Hotel.build/Debug-iphonesimulator/Hotel.build/Objects-normal/i386/FileController.o0#
+
+CCompileC build/Hotel.build/Debug-iphonesimulator/Hotel.build/Objects-normal/i386/HotelAppDelegate.o /Users/sunsunchao/Desktop/Hotel1/Classes/HotelAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s361161004.903619
+e361161005.334504
+r1
+xCompileC
+xbuild/Hotel.build/Debug-iphonesimulator/Hotel.build/Objects-normal/i386/HotelAppDelegate.o
+x/Users/sunsunchao/Desktop/Hotel1/Classes/HotelAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/sunsunchao/Desktop/Hotel1/Classes/HotelAppDelegate.m361161004#361161005#0(0"0(0#0#59"/Users/sunsunchao/Desktop/Hotel1/Classes/HotelAppDelegate.m4300911832#1785"    cd /Users/sunsunchao/Desktop/Hotel1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/sunsunchao/Desktop/Hotel1/build/Hotel.build/Debug-iphonesimulator/Hotel.build/Hotel-generated-files.hmap -I/Users/sunsunchao/Desktop/Hotel1/build/Hotel.build/Debug-iphonesimulator/Hotel.build/Hotel-own-target-headers.hmap -I/Users/sunsunchao/Desktop/Hotel1/build/Hotel.build/Debug-iphonesimulator/Hotel.build/Hotel-all-target-headers.hmap -iquote /Users/sunsunchao/Desktop/Hotel1/build/Hotel.build/Debug-iphonesimulator/Hotel.build/Hotel-project-headers.hmap -F/Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator -I/Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator/include -I/Users/sunsunchao/Desktop/Hotel1/build/Hotel.build/Debug-iphonesimulator/Hotel.build/DerivedSources/i386 -I/Users/sunsunchao/Desktop/Hotel1/build/Hotel.build/Debug-iphonesimulator/Hotel.build/DerivedSources -include /var/folders/BK/BK62rlQNFpuDbXcAePZFtk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hotel_Prefix-fmkxjpjtwpxiakdeireyfosruibi/Hotel_Prefix.pch -c /Users/sunsunchao/Desktop/Hotel1/Classes/HotelAppDelegate.m -o /Users/sunsunchao/Desktop/Hotel1/build/Hotel.build/Debug-iphonesimulator/Hotel.build/Objects-normal/i386/HotelAppDelegate.o0#
+
+CCompileC build/Hotel.build/Debug-iphonesimulator/Hotel.build/Objects-normal/i386/OrderController.o /Users/sunsunchao/Desktop/Hotel1/Classes/OrderController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s361161005.636964
+e361161005.792073
+r1
+xCompileC
+xbuild/Hotel.build/Debug-iphonesimulator/Hotel.build/Objects-normal/i386/OrderController.o
+x/Users/sunsunchao/Desktop/Hotel1/Classes/OrderController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/sunsunchao/Desktop/Hotel1/Classes/OrderController.m361161005#361161005#0(0"0(0#0#58"/Users/sunsunchao/Desktop/Hotel1/Classes/OrderController.m4300911832#1783"    cd /Users/sunsunchao/Desktop/Hotel1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/sunsunchao/Desktop/Hotel1/build/Hotel.build/Debug-iphonesimulator/Hotel.build/Hotel-generated-files.hmap -I/Users/sunsunchao/Desktop/Hotel1/build/Hotel.build/Debug-iphonesimulator/Hotel.build/Hotel-own-target-headers.hmap -I/Users/sunsunchao/Desktop/Hotel1/build/Hotel.build/Debug-iphonesimulator/Hotel.build/Hotel-all-target-headers.hmap -iquote /Users/sunsunchao/Desktop/Hotel1/build/Hotel.build/Debug-iphonesimulator/Hotel.build/Hotel-project-headers.hmap -F/Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator -I/Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator/include -I/Users/sunsunchao/Desktop/Hotel1/build/Hotel.build/Debug-iphonesimulator/Hotel.build/DerivedSources/i386 -I/Users/sunsunchao/Desktop/Hotel1/build/Hotel.build/Debug-iphonesimulator/Hotel.build/DerivedSources -include /var/folders/BK/BK62rlQNFpuDbXcAePZFtk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hotel_Prefix-fmkxjpjtwpxiakdeireyfosruibi/Hotel_Prefix.pch -c /Users/sunsunchao/Desktop/Hotel1/Classes/OrderController.m -o /Users/sunsunchao/Desktop/Hotel1/build/Hotel.build/Debug-iphonesimulator/Hotel.build/Objects-normal/i386/OrderController.o0#
+
+CCompileC build/Hotel.build/Debug-iphonesimulator/Hotel.build/Objects-normal/i386/TableCellView.o /Users/sunsunchao/Desktop/Hotel1/Classes/TableCellView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s361161005.684989
+e361161005.749190
+r1
+xCompileC
+xbuild/Hotel.build/Debug-iphonesimulator/Hotel.build/Objects-normal/i386/TableCellView.o
+x/Users/sunsunchao/Desktop/Hotel1/Classes/TableCellView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/sunsunchao/Desktop/Hotel1/Classes/TableCellView.m361161005#361161005#0(0"0(0#0#56"/Users/sunsunchao/Desktop/Hotel1/Classes/TableCellView.m4300911832#1779"    cd /Users/sunsunchao/Desktop/Hotel1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/sunsunchao/Desktop/Hotel1/build/Hotel.build/Debug-iphonesimulator/Hotel.build/Hotel-generated-files.hmap -I/Users/sunsunchao/Desktop/Hotel1/build/Hotel.build/Debug-iphonesimulator/Hotel.build/Hotel-own-target-headers.hmap -I/Users/sunsunchao/Desktop/Hotel1/build/Hotel.build/Debug-iphonesimulator/Hotel.build/Hotel-all-target-headers.hmap -iquote /Users/sunsunchao/Desktop/Hotel1/build/Hotel.build/Debug-iphonesimulator/Hotel.build/Hotel-project-headers.hmap -F/Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator -I/Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator/include -I/Users/sunsunchao/Desktop/Hotel1/build/Hotel.build/Debug-iphonesimulator/Hotel.build/DerivedSources/i386 -I/Users/sunsunchao/Desktop/Hotel1/build/Hotel.build/Debug-iphonesimulator/Hotel.build/DerivedSources -include /var/folders/BK/BK62rlQNFpuDbXcAePZFtk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hotel_Prefix-fmkxjpjtwpxiakdeireyfosruibi/Hotel_Prefix.pch -c /Users/sunsunchao/Desktop/Hotel1/Classes/TableCellView.m -o /Users/sunsunchao/Desktop/Hotel1/build/Hotel.build/Debug-iphonesimulator/Hotel.build/Objects-normal/i386/TableCellView.o0#
+
+CCompileC build/Hotel.build/Debug-iphonesimulator/Hotel.build/Objects-normal/i386/main.o /Users/sunsunchao/Desktop/Hotel1/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s361161004.869509
+e361161005.315474
+r1
+xCompileC
+xbuild/Hotel.build/Debug-iphonesimulator/Hotel.build/Objects-normal/i386/main.o
+x/Users/sunsunchao/Desktop/Hotel1/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@47"Compile /Users/sunsunchao/Desktop/Hotel1/main.m361161004#361161005#0(0"0(0#0#39"/Users/sunsunchao/Desktop/Hotel1/main.m4300911832#1753"    cd /Users/sunsunchao/Desktop/Hotel1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/sunsunchao/Desktop/Hotel1/build/Hotel.build/Debug-iphonesimulator/Hotel.build/Hotel-generated-files.hmap -I/Users/sunsunchao/Desktop/Hotel1/build/Hotel.build/Debug-iphonesimulator/Hotel.build/Hotel-own-target-headers.hmap -I/Users/sunsunchao/Desktop/Hotel1/build/Hotel.build/Debug-iphonesimulator/Hotel.build/Hotel-all-target-headers.hmap -iquote /Users/sunsunchao/Desktop/Hotel1/build/Hotel.build/Debug-iphonesimulator/Hotel.build/Hotel-project-headers.hmap -F/Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator -I/Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator/include -I/Users/sunsunchao/Desktop/Hotel1/build/Hotel.build/Debug-iphonesimulator/Hotel.build/DerivedSources/i386 -I/Users/sunsunchao/Desktop/Hotel1/build/Hotel.build/Debug-iphonesimulator/Hotel.build/DerivedSources -include /var/folders/BK/BK62rlQNFpuDbXcAePZFtk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hotel_Prefix-fmkxjpjtwpxiakdeireyfosruibi/Hotel_Prefix.pch -c /Users/sunsunchao/Desktop/Hotel1/main.m -o /Users/sunsunchao/Desktop/Hotel1/build/Hotel.build/Debug-iphonesimulator/Hotel.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/sunsunchao/Desktop/Hotel1/Classes/AddController.xib
+s361161003.992004
+e361161004.547888
+r1
+xCompileXIB
+x/Users/sunsunchao/Desktop/Hotel1/Classes/AddController.xib
+o/* com.apple.ibtool.document.notices */
+o/Users/sunsunchao/Desktop/Hotel1/Classes/AddController.xib:40: note: This view is clipping its content.
+lSLF07#2@36"CompileXIB Classes/AddController.xib361161003#361161004#0(144"/* com.apple.ibtool.document.notices *//Users/sunsunchao/Desktop/Hotel1/Classes/AddController.xib:40: note: This view is clipping its content.1(13@34"This view is clipping its content.361161004#18446744073709551615#0#0(6@58"/Users/sunsunchao/Desktop/Hotel1/Classes/AddController.xib361016102#40#0#40#0#0"0(0#0#58"/Users/sunsunchao/Desktop/Hotel1/Classes/AddController.xib4300911832#476"    cd /Users/sunsunchao/Desktop/Hotel1    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator/Hotel.app/AddController.nib /Users/sunsunchao/Desktop/Hotel1/Classes/AddController.xib0#
+
+CCompileXIB /Users/sunsunchao/Desktop/Hotel1/Classes/AdviceController.xib
+s361161003.676617
+e361161004.145848
+r1
+xCompileXIB
+x/Users/sunsunchao/Desktop/Hotel1/Classes/AdviceController.xib
+lSLF07#2@39"CompileXIB Classes/AdviceController.xib361161003#361161004#0(0"0(0#0#61"/Users/sunsunchao/Desktop/Hotel1/Classes/AdviceController.xib4300911832#482"    cd /Users/sunsunchao/Desktop/Hotel1    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator/Hotel.app/AdviceController.nib /Users/sunsunchao/Desktop/Hotel1/Classes/AdviceController.xib0#
+
+CCompileXIB /Users/sunsunchao/Desktop/Hotel1/Classes/CatalogFirstController.xib
+s361161003.289104
+e361161003.676535
+r1
+xCompileXIB
+x/Users/sunsunchao/Desktop/Hotel1/Classes/CatalogFirstController.xib
+lSLF07#2@45"CompileXIB Classes/CatalogFirstController.xib361161003#361161003#0(0"0(0#0#67"/Users/sunsunchao/Desktop/Hotel1/Classes/CatalogFirstController.xib4300911832#494"    cd /Users/sunsunchao/Desktop/Hotel1    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator/Hotel.app/CatalogFirstController.nib /Users/sunsunchao/Desktop/Hotel1/Classes/CatalogFirstController.xib0#
+
+CCompileXIB /Users/sunsunchao/Desktop/Hotel1/Classes/CatalogSecondController.xib
+s361161004.150875
+e361161004.688367
+r1
+xCompileXIB
+x/Users/sunsunchao/Desktop/Hotel1/Classes/CatalogSecondController.xib
+lSLF07#2@46"CompileXIB Classes/CatalogSecondController.xib361161004#361161004#0(0"0(0#0#68"/Users/sunsunchao/Desktop/Hotel1/Classes/CatalogSecondController.xib4300911832#496"    cd /Users/sunsunchao/Desktop/Hotel1    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator/Hotel.app/CatalogSecondController.nib /Users/sunsunchao/Desktop/Hotel1/Classes/CatalogSecondController.xib0#
+
+CCompileXIB /Users/sunsunchao/Desktop/Hotel1/Classes/CollectionController.xib
+s361161004.562667
+e361161004.868483
+r1
+xCompileXIB
+x/Users/sunsunchao/Desktop/Hotel1/Classes/CollectionController.xib
+lSLF07#2@43"CompileXIB Classes/CollectionController.xib361161004#361161004#0(0"0(0#0#65"/Users/sunsunchao/Desktop/Hotel1/Classes/CollectionController.xib4300911832#490"    cd /Users/sunsunchao/Desktop/Hotel1    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator/Hotel.app/CollectionController.nib /Users/sunsunchao/Desktop/Hotel1/Classes/CollectionController.xib0#
+
+CCompileXIB /Users/sunsunchao/Desktop/Hotel1/Classes/OrderController.xib
+s361161003.650046
+e361161003.991926
+r1
+xCompileXIB
+x/Users/sunsunchao/Desktop/Hotel1/Classes/OrderController.xib
+lSLF07#2@38"CompileXIB Classes/OrderController.xib361161003#361161003#0(0"0(0#0#60"/Users/sunsunchao/Desktop/Hotel1/Classes/OrderController.xib4300911832#480"    cd /Users/sunsunchao/Desktop/Hotel1    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator/Hotel.app/OrderController.nib /Users/sunsunchao/Desktop/Hotel1/Classes/OrderController.xib0#
+
+CCompileXIB /Users/sunsunchao/Desktop/Hotel1/MainWindow.xib
+s361161003.287484
+e361161003.649942
+r1
+xCompileXIB
+x/Users/sunsunchao/Desktop/Hotel1/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib361161003#361161003#0(0"0(0#0#47"/Users/sunsunchao/Desktop/Hotel1/MainWindow.xib4300911832#462"    cd /Users/sunsunchao/Desktop/Hotel1    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator/Hotel.app/MainWindow.nib /Users/sunsunchao/Desktop/Hotel1/MainWindow.xib0#
+
+CCpResource build/Debug-iphonesimulator/Hotel.app/1.jpg 1.jpg
+s361161004.145929
+e361161004.156521
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Hotel.app/1.jpg
+x1.jpg
+lSLF07#2@10"Copy 1.jpg361161004#361161004#0(0"0(0#0#38"/Users/sunsunchao/Desktop/Hotel1/1.jpg4300911832#429"    cd /Users/sunsunchao/Desktop/Hotel1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/sunsunchao/Desktop/Hotel1/1.jpg /Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator/Hotel.app0#
+
+CCpResource build/Debug-iphonesimulator/Hotel.app/2.jpg 2.jpg
+s361161004.146493
+e361161004.155710
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Hotel.app/2.jpg
+x2.jpg
+lSLF07#2@10"Copy 2.jpg361161004#361161004#0(0"0(0#0#38"/Users/sunsunchao/Desktop/Hotel1/2.jpg4300911832#429"    cd /Users/sunsunchao/Desktop/Hotel1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/sunsunchao/Desktop/Hotel1/2.jpg /Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator/Hotel.app0#
+
+CCpResource build/Debug-iphonesimulator/Hotel.app/3.jpg 3.jpg
+s361161004.146950
+e361161004.155582
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Hotel.app/3.jpg
+x3.jpg
+lSLF07#2@10"Copy 3.jpg361161004#361161004#0(0"0(0#0#38"/Users/sunsunchao/Desktop/Hotel1/3.jpg4300911832#429"    cd /Users/sunsunchao/Desktop/Hotel1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/sunsunchao/Desktop/Hotel1/3.jpg /Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator/Hotel.app0#
+
+CCpResource build/Debug-iphonesimulator/Hotel.app/4.jpg 4.jpg
+s361161004.147416
+e361161004.156193
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Hotel.app/4.jpg
+x4.jpg
+lSLF07#2@10"Copy 4.jpg361161004#361161004#0(0"0(0#0#38"/Users/sunsunchao/Desktop/Hotel1/4.jpg4300911832#429"    cd /Users/sunsunchao/Desktop/Hotel1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/sunsunchao/Desktop/Hotel1/4.jpg /Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator/Hotel.app0#
+
+CCpResource build/Debug-iphonesimulator/Hotel.app/5.jpg 5.jpg
+s361161004.147867
+e361161004.159813
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Hotel.app/5.jpg
+x5.jpg
+lSLF07#2@10"Copy 5.jpg361161004#361161004#0(0"0(0#0#38"/Users/sunsunchao/Desktop/Hotel1/5.jpg4300911832#429"    cd /Users/sunsunchao/Desktop/Hotel1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/sunsunchao/Desktop/Hotel1/5.jpg /Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator/Hotel.app0#
+
+CCpResource build/Debug-iphonesimulator/Hotel.app/6.jpg 6.jpg
+s361161004.149360
+e361161004.163923
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Hotel.app/6.jpg
+x6.jpg
+lSLF07#2@10"Copy 6.jpg361161004#361161004#0(0"0(0#0#38"/Users/sunsunchao/Desktop/Hotel1/6.jpg4300911832#429"    cd /Users/sunsunchao/Desktop/Hotel1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/sunsunchao/Desktop/Hotel1/6.jpg /Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator/Hotel.app0#
+
+CCpResource build/Debug-iphonesimulator/Hotel.app/7.jpg 7.jpg
+s361161004.547961
+e361161004.560921
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Hotel.app/7.jpg
+x7.jpg
+lSLF07#2@10"Copy 7.jpg361161004#361161004#0(0"0(0#0#38"/Users/sunsunchao/Desktop/Hotel1/7.jpg4300911832#429"    cd /Users/sunsunchao/Desktop/Hotel1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/sunsunchao/Desktop/Hotel1/7.jpg /Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator/Hotel.app0#
+
+CCpResource build/Debug-iphonesimulator/Hotel.app/Advice.png "Tab Bar Icons/Advice.png"
+s361161004.556220
+e361161004.566862
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Hotel.app/Advice.png
+xTab Bar Icons/Advice.png
+lSLF07#2@29"Copy Tab Bar Icons/Advice.png361161004#361161004#0(0"0(0#0#57"/Users/sunsunchao/Desktop/Hotel1/Tab Bar Icons/Advice.png4300911832#450"    cd /Users/sunsunchao/Desktop/Hotel1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sunsunchao/Desktop/Hotel1/Tab Bar Icons/Advice.png" /Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator/Hotel.app0#
+
+CCpResource build/Debug-iphonesimulator/Hotel.app/Catalog.png "Tab Bar Icons/Catalog.png"
+s361161004.557729
+e361161004.573956
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Hotel.app/Catalog.png
+xTab Bar Icons/Catalog.png
+lSLF07#2@30"Copy Tab Bar Icons/Catalog.png361161004#361161004#0(0"0(0#0#58"/Users/sunsunchao/Desktop/Hotel1/Tab Bar Icons/Catalog.png4300911832#451"    cd /Users/sunsunchao/Desktop/Hotel1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sunsunchao/Desktop/Hotel1/Tab Bar Icons/Catalog.png" /Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator/Hotel.app0#
+
+CCpResource build/Debug-iphonesimulator/Hotel.app/Collection.png "Tab Bar Icons/Collection.png"
+s361161004.561175
+e361161004.574327
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Hotel.app/Collection.png
+xTab Bar Icons/Collection.png
+lSLF07#2@33"Copy Tab Bar Icons/Collection.png361161004#361161004#0(0"0(0#0#61"/Users/sunsunchao/Desktop/Hotel1/Tab Bar Icons/Collection.png4300911832#454"    cd /Users/sunsunchao/Desktop/Hotel1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sunsunchao/Desktop/Hotel1/Tab Bar Icons/Collection.png" /Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator/Hotel.app0#
+
+CCpResource build/Debug-iphonesimulator/Hotel.app/CoreData.sqlite CoreData.sqlite
+s361161004.554848
+e361161004.566410
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Hotel.app/CoreData.sqlite
+xCoreData.sqlite
+lSLF07#2@20"Copy CoreData.sqlite361161004#361161004#0(0"0(0#0#48"/Users/sunsunchao/Desktop/Hotel1/CoreData.sqlite4300911832#439"    cd /Users/sunsunchao/Desktop/Hotel1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/sunsunchao/Desktop/Hotel1/CoreData.sqlite /Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator/Hotel.app0#
+
+CCpResource build/Debug-iphonesimulator/Hotel.app/Order.png "Tab Bar Icons/Order.png"
+s361161004.559258
+e361161004.573438
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Hotel.app/Order.png
+xTab Bar Icons/Order.png
+lSLF07#2@28"Copy Tab Bar Icons/Order.png361161004#361161004#0(0"0(0#0#56"/Users/sunsunchao/Desktop/Hotel1/Tab Bar Icons/Order.png4300911832#449"    cd /Users/sunsunchao/Desktop/Hotel1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sunsunchao/Desktop/Hotel1/Tab Bar Icons/Order.png" /Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator/Hotel.app0#
+
+CCpResource build/Debug-iphonesimulator/Hotel.app/default.png default.png
+s361161004.553310
+e361161004.564361
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Hotel.app/default.png
+xdefault.png
+lSLF07#2@16"Copy default.png361161004#361161004#0(0"0(0#0#44"/Users/sunsunchao/Desktop/Hotel1/default.png4300911832#435"    cd /Users/sunsunchao/Desktop/Hotel1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/sunsunchao/Desktop/Hotel1/default.png /Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator/Hotel.app0#
+
+CCpResource build/Debug-iphonesimulator/Hotel.app/doubleicon.png "Tab Bar Icons/doubleicon.png"
+s361161004.548626
+e361161004.561027
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Hotel.app/doubleicon.png
+xTab Bar Icons/doubleicon.png
+lSLF07#2@33"Copy Tab Bar Icons/doubleicon.png361161004#361161004#0(0"0(0#0#61"/Users/sunsunchao/Desktop/Hotel1/Tab Bar Icons/doubleicon.png4300911832#454"    cd /Users/sunsunchao/Desktop/Hotel1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sunsunchao/Desktop/Hotel1/Tab Bar Icons/doubleicon.png" /Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator/Hotel.app0#
+
+CCpResource build/Debug-iphonesimulator/Hotel.app/icon.png icon.png
+s361161004.551661
+e361161004.561119
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Hotel.app/icon.png
+xicon.png
+lSLF07#2@13"Copy icon.png361161004#361161004#0(0"0(0#0#41"/Users/sunsunchao/Desktop/Hotel1/icon.png4300911832#432"    cd /Users/sunsunchao/Desktop/Hotel1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/sunsunchao/Desktop/Hotel1/icon.png /Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator/Hotel.app0#
+
+CCpResource build/Debug-iphonesimulator/Hotel.app/singleicon.png "Tab Bar Icons/singleicon.png"
+s361161004.550130
+e361161004.564260
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Hotel.app/singleicon.png
+xTab Bar Icons/singleicon.png
+lSLF07#2@33"Copy Tab Bar Icons/singleicon.png361161004#361161004#0(0"0(0#0#61"/Users/sunsunchao/Desktop/Hotel1/Tab Bar Icons/singleicon.png4300911832#454"    cd /Users/sunsunchao/Desktop/Hotel1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sunsunchao/Desktop/Hotel1/Tab Bar Icons/singleicon.png" /Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator/Hotel.app0#
+
+CDataModelCompile /Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator/Hotel.app/Hotel.mom /Users/sunsunchao/Desktop/Hotel1/Hotel.xcdatamodel
+s361161004.868695
+e361161004.903524
+r1
+xDataModelCompile
+x/Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator/Hotel.app/Hotel.mom
+x/Users/sunsunchao/Desktop/Hotel1/Hotel.xcdatamodel
+lSLF07#2@58"Compile /Users/sunsunchao/Desktop/Hotel1/Hotel.xcdatamodel361161004#361161004#0(0"0(0#0#50"/Users/sunsunchao/Desktop/Hotel1/Hotel.xcdatamodel4300911832#360"    cd /Users/sunsunchao/Desktop/Hotel1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/momc -XD_MOMC_TARGET_VERSION=10.5 /Users/sunsunchao/Desktop/Hotel1/Hotel.xcdatamodel /Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator/Hotel.app/Hotel.mom0#
+
+CGenerateDSYMFile /Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator/Hotel.app.dSYM /Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator/Hotel.app/Hotel
+s361161005.945141
+e361161005.974110
+r1
+xGenerateDSYMFile
+x/Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator/Hotel.app.dSYM
+x/Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator/Hotel.app/Hotel
+lSLF07#2@103"GenerateDSYMFile build/Debug-iphonesimulator/Hotel.app.dSYM build/Debug-iphonesimulator/Hotel.app/Hotel361161005#361161005#0(0"0(0#0#76"/Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator/Hotel.app/Hotel4300911832#359"    cd /Users/sunsunchao/Desktop/Hotel1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator/Hotel.app/Hotel -o /Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator/Hotel.app.dSYM0#
+
+CLd /Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator/Hotel.app/Hotel normal i386
+s361161005.913593
+e361161005.945050
+r1
+xLd
+x/Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator/Hotel.app/Hotel
+xnormal
+xi386
+lSLF07#2@81"Link /Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator/Hotel.app/Hotel361161005#361161005#0(0"0(0#0#0"4300911832#866"    cd /Users/sunsunchao/Desktop/Hotel1    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -L/Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator -F/Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator -filelist /Users/sunsunchao/Desktop/Hotel1/build/Hotel.build/Debug-iphonesimulator/Hotel.build/Objects-normal/i386/Hotel.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreData -framework QuartzCore -o /Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator/Hotel.app/Hotel0#
+
+CProcessInfoPlistFile /Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator/Hotel.app/Info.plist Hotel-Info.plist
+s361161003.282843
+e361161003.287423
+r1
+xProcessInfoPlistFile
+x/Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator/Hotel.app/Info.plist
+xHotel-Info.plist
+lSLF07#2@24"Process Hotel-Info.plist361161003#361161003#0(0"0(0#0#49"/Users/sunsunchao/Desktop/Hotel1/Hotel-Info.plist4300911832#455"    cd /Users/sunsunchao/Desktop/Hotel1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Hotel-Info.plist -genpkginfo /Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator/Hotel.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator/Hotel.app/Info.plist0#
+
+CProcessPCH /var/folders/BK/BK62rlQNFpuDbXcAePZFtk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hotel_Prefix-fmkxjpjtwpxiakdeireyfosruibi/Hotel_Prefix.pch.gch Hotel_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch /Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator/Hotel.app
+s361161005.974197
+e361161005.977358
+r1
+xTouch
+x/Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator/Hotel.app
+lSLF07#2@76"Touch /Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator/Hotel.app361161005#361161005#0(0"0(0#0#0"4300911832#264"    cd /Users/sunsunchao/Desktop/Hotel1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/sunsunchao/Desktop/Hotel1/build/Debug-iphonesimulator/Hotel.app0#
+
